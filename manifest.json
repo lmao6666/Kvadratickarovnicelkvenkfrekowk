@@ -1,0 +1,20 @@
+{
+    "name": "Aplikace pro kvadratické rovnice",
+    "short_name": "kv-rov-calc",
+    
+    "icons": [
+      {
+        "src": "/icons/icon-150x150.png",
+        "sizes": "150x150",
+        "type": "image/png"
+      },
+      {
+        "src": "/icons/icon-500x500.png",
+        "sizes": "500x500",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",          
+    "display": "standalone"
+
+}
